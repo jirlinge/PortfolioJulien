@@ -13,7 +13,7 @@ function About() {
             <div className="about__container container grid">
                 <img src={AboutImg} alt="imgJulien" className="about__img" />
                 <div className="about__data">
-                    {/* <Info /> */}
+                    <Info />
                     <p className="about__description">
                         description
                     </p>
