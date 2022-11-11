@@ -11,13 +11,14 @@
 .qualification__button {
     font-size: var(--h3-font-zise);
     font-weight: var(--font-medium);
-    color: var(--title-color);
+    color: #8f8f8f;
     margin: 0 var(--mb-1);
     cursor: pointer;
 }
 
 .qualification__button:hover {
     color: var(--title-color-dark);
+    transition: 0.3s;
 }
 
 .qualification__icon {
@@ -105,6 +106,10 @@
     .qualification__button {
         margin: 0 var(--mb-0-75);
     }
+
+    .qualification__content {
+        padding: 1rem;
+    }
   }
   
   /* for small devices */
@@ -112,5 +117,9 @@
   @media screen and (max-width:350px) {
     .qualification__data {
         gap: 0.5rem;
+    }
+
+    .qualification__content {
+        padding: 1rem;
     }
   }
