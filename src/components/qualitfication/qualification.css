@@ -11,14 +11,17 @@
 .qualification__button {
     font-size: var(--h3-font-zise);
     font-weight: var(--font-medium);
-    color: #8f8f8f;
+    color:var(--title-color);
     margin: 0 var(--mb-1);
     cursor: pointer;
+    padding: 0.25rem 0.75rem;
+    border-radius: 0.5rem;
+    border: 1px solid #B4B4B4;
 }
 
 .qualification__button:hover {
-    color: var(--title-color-dark);
-    transition: 0.3s;
+    background-color: var(--title-color);
+    color: var(--container-color);
 }
 
 .qualification__icon {
@@ -27,7 +30,8 @@
 }
 
 .qualification__active {
-    color: var(--title-color-dark);
+    background-color: var(--title-color);
+    color: var(--container-color);
 }
 
 .qualification__sections {
