@@ -30,6 +30,12 @@
     width: 295px;
     border-radius: 1rem;
     margin-bottom: var(--mb-1);
+    max-height: 200px;
+}
+
+.work__description {
+    width: 295px;
+    margin-bottom: var(--mb-1);
 }
 
 .work__card {
