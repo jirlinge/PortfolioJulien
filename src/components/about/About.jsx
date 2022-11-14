@@ -15,10 +15,10 @@ function About() {
                 <div className="about__data">
                     <Info />
                     <p className="about__description">
-                    After many years as a freelancer and an experience in the management 
-                    of distribution establishments, I wish to give new impetus to my motivations.
-                    For this, I recently resumed my studies and am now looking for work
-                    in application development.
+                    After having worked as freelancer as webdesigner in parallel of being manager for retail foodstores, I
+                    want to give new impetus to my career.
+                    In order to do this, I recently resumed my studies and I am now looking to work full time in
+                    application development.
                     </p>
                     <a download="" href={CV} className="button button--flex">
                         Download CV

@@ -47,9 +47,10 @@ function Data() {
 				</svg>
             </h1>
 			<h3 className="home__subtitle">
-				Developer Front
+				Front developer
 			</h3>
-			<p className="home__description">I am a creative developer based in Angers France.<br></br> I am passionate and dedicated to my work.<br></br> I am looking for new opportunities and things to learn.</p>
+			<p className="home__description">I am passionate and dedicated to my work and would like to develop my career and discover
+new opportunities.</p>
             <a href="#contact" className="button button--flex">
 				Say hello
 				<svg

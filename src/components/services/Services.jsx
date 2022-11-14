@@ -71,7 +71,7 @@ function Services() {
                             <i onClick={() => toggleTab(0)} className="uil uil-times services__modal-close"></i>
 
                             <h3 className="services__modal-title">Backend Developer</h3>
-                            <p className="services__modal-description">I develop data persistence by integrating security recommendations</p>
+                            <p className="services__modal-description">I develop data persistence with integration of security recommendations</p>
 
                             <ul className="services__modal-services grid">
                                 <li className="services__modal-service">
@@ -86,7 +86,7 @@ function Services() {
 
                                 <li className="services__modal-service">
                                     <i className="uil uil-check-circle services__modal-icon"></i>
-                                    <p className="services__modal-info">Set up a database.</p>
+                                    <p className="services__modal-info">Database set up.</p>
                                 </li>
 
                                 <li className="services__modal-service">
@@ -117,7 +117,7 @@ function Services() {
                             <i onClick={() => toggleTab(0)} className="uil uil-times services__modal-close"></i>
 
                             <h3 className="services__modal-title">Frontend developer</h3>
-                            <p className="services__modal-description">I develop the frontend of user interfaces by integrating security recommendations</p>
+                            <p className="services__modal-description">I develop the frontend of user interfaces with integration of security recommendations</p>
 
                             <ul className="services__modal-services grid">
                                 <li className="services__modal-service">
