@@ -1,7 +1,7 @@
 import React from "react";
 import "./about.css";
 import AboutImg from "../../assets/about.jpg"
-import CV from "../../assets/Julienirlingerf4FS.pdf"
+import CV from "../../assets/JulienirlingerD1.pdf"
 import Info from "./Info";
 
 function About() {
@@ -18,7 +18,7 @@ function About() {
                     After having worked as freelancer as webdesigner in parallel of being manager for retail foodstores, I
                     want to give new impetus to my career.
                     In order to do this, I recently resumed my studies and I am now looking to work full time in
-                    application development.
+                    application conception.
                     </p>
                     <a download="" href={CV} className="button button--flex">
                         Download CV
