@@ -47,7 +47,7 @@ function Data() {
 				</svg>
             </h1>
 			<h3 className="home__subtitle">
-				Front developer
+				Designer / Front developer
 			</h3>
 			<p className="home__description">I am passionate and dedicated to my work and would like to develop my career and discover
 new opportunities.</p>
