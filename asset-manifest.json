@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/PortfolioJulien/static/css/main.1f0e0933.css",
-    "main.js": "/PortfolioJulien/static/js/main.d6c202f8.js",
+    "main.js": "/PortfolioJulien/static/js/main.47955d47.js",
     "static/js/787.d6a2ff01.chunk.js": "/PortfolioJulien/static/js/787.d6a2ff01.chunk.js",
     "static/media/about.jpg": "/PortfolioJulien/static/media/about.f5a5f81e52de311af14e.jpg",
     "static/media/work3.jpg": "/PortfolioJulien/static/media/work3.4c93b26a1c47adc4b8da.jpg",
     "static/media/work5.jpg": "/PortfolioJulien/static/media/work5.70340592bf1dac19c5d5.jpg",
-    "static/media/Julienirlingerf4FS.pdf": "/PortfolioJulien/static/media/Julienirlingerf4FS.580df683470820b40093.pdf",
+    "static/media/JulienirlingerD1.pdf": "/PortfolioJulien/static/media/JulienirlingerD1.94cd0ad0b9e679e9bcef.pdf",
     "static/media/work2.jpg": "/PortfolioJulien/static/media/work2.92c6d23d947cc9aea5ef.jpg",
     "static/media/work7.jpg": "/PortfolioJulien/static/media/work7.fdde8a66179767f55d22.jpg",
     "static/media/work1.jpg": "/PortfolioJulien/static/media/work1.c9a5f40d6287047e832b.jpg",
@@ -15,11 +15,11 @@
     "static/media/work4.jpg": "/PortfolioJulien/static/media/work4.aee985961b648f4df1f2.jpg",
     "index.html": "/PortfolioJulien/index.html",
     "main.1f0e0933.css.map": "/PortfolioJulien/static/css/main.1f0e0933.css.map",
-    "main.d6c202f8.js.map": "/PortfolioJulien/static/js/main.d6c202f8.js.map",
+    "main.47955d47.js.map": "/PortfolioJulien/static/js/main.47955d47.js.map",
     "787.d6a2ff01.chunk.js.map": "/PortfolioJulien/static/js/787.d6a2ff01.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1f0e0933.css",
-    "static/js/main.d6c202f8.js"
+    "static/js/main.47955d47.js"
   ]
 }
